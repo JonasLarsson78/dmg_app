@@ -1,5 +1,7 @@
 # Port Manager — DMG Distribution
 
+![Screenshot](Screenshot.png)
+
 ---
 
 ## Svenska

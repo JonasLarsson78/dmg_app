@@ -1,5 +1,7 @@
 # Stream Board — DMG Distribution
 
+![Screenshot](Screenshot.png)
+
 ---
 
 ## Svenska
