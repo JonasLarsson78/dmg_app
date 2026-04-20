@@ -11,6 +11,7 @@ Ett repo för macOS-appar och deras installationsfiler (DMG). Här samlas färdi
 ```
 dmg_app/
 ├── dmg/
+│   ├── active-log/     # Installationsfil för Active Log
 │   ├── port-manager/   # Installationsfil för Port Manager
 │   └── stream-board/   # Installationsfil för Stream Board
 ```
@@ -19,6 +20,7 @@ dmg_app/
 
 | App | Beskrivning |
 |-----|-------------|
+| [Active Log](dmg/active-log/readme.md) | Logga och spåra aktiviteter som promenad, jogging, löpning och cykling med veckovisa mål |
 | [Port Manager](dmg/port-manager/readme.md) | Listar alla aktiva portar och låter dig avsluta processer med ett klick |
 | [Stream Board](dmg/stream-board/readme.md) | En stream board där du kan byta knappar till olika program och funktioner på din Mac |
 
@@ -33,6 +35,7 @@ A repository for macOS apps and their installer files (DMG). Contains built apps
 ```
 dmg_app/
 ├── dmg/
+│   ├── active-log/     # Installer for Active Log
 │   ├── port-manager/   # Installer for Port Manager
 │   └── stream-board/   # Installer for Stream Board
 ```
@@ -41,5 +44,6 @@ dmg_app/
 
 | App | Description |
 |-----|-------------|
+| [Active Log](dmg/active-log/readme.md) | Log and track activities like walks, jogging, running, and cycling with weekly goals |
 | [Port Manager](dmg/port-manager/readme.md) | Lists all active ports and lets you kill processes with one click |
 | [Stream Board](dmg/stream-board/readme.md) | A stream board where you can assign buttons to different apps and functions on your Mac |
