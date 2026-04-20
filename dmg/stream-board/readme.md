@@ -8,9 +8,6 @@
 
 Installationsfil (disk image) för Stream Board-appen till macOS.
 
-### Fil
-
-`Stream Board_0.1.0_aarch64.dmg` — version 0.1.0, Apple Silicon (aarch64)
 
 ### Installation
 
@@ -32,7 +29,7 @@ Installer disk image for the Stream Board macOS app.
 
 ### File
 
-`Stream Board_0.1.0_aarch64.dmg` — version 0.1.0, Apple Silicon (aarch64)
+`Stream Board_0.1.0_aarch64.dmg` — Apple Silicon (aarch64)
 
 ### Installation
 

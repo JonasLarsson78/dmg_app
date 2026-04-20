@@ -8,9 +8,6 @@
 
 Installationsfil (disk image) för Port Manager-appen till macOS.
 
-### Fil
-
-`Port Manager_0.1.0_aarch64.dmg` — version 0.1.0, Apple Silicon (aarch64)
 
 ### Installation
 
@@ -37,7 +34,7 @@ Installer disk image for the Port Manager macOS app.
 
 ### File
 
-`Port Manager_0.1.0_aarch64.dmg` — version 0.1.0, Apple Silicon (aarch64)
+`Port Manager_0.1.0_aarch64.dmg` — Apple Silicon (aarch64)
 
 ### Installation
 
